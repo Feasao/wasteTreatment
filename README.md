@@ -1,0 +1,1 @@
+Extracting information from a csv using an api for waste treatment facilities, analysing the information and providing some graphs and other information on them, also using dynaming sql storage with python libraries
